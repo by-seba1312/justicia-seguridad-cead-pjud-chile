@@ -1,0 +1,12 @@
+# Git Ignore para Proyecto 3: Justicia y Seguridad Pública
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+.DS_Store
+Thumbs.db
+raw_downloads/
+*.zip
+*.rar
+*.xlsx
+*.xls
